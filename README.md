@@ -7,6 +7,7 @@ This is a Python program that allows you to convert numbers between different nu
 - Decimal (base 10)
 - Hexadecimal (base 16)
 
+-> It also support fraction convertions.
 ## Installation
 
 To run this program, you need to have Python 3 installed on your computer. You can download Python from the [official website](https://www.python.org/downloads/).
